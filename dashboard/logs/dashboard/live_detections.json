@@ -1,0 +1,1 @@
+{"detections": [{"track_id": 0, "behavior": "blackboard_screen", "confidence": 0.95}, {"track_id": 1, "behavior": "handrise_read_write", "confidence": 0.95}, {"track_id": 2, "behavior": "discussing", "confidence": 0.95}, {"track_id": 3, "behavior": "blackboard_screen", "confidence": 0.95}]}

@@ -1,0 +1,19 @@
+{
+  "timestamp": 1775548593.2120984,
+  "frame": 470,
+  "num_detections": 1,
+  "detections": [
+    {
+      "track_id": 3,
+      "behavior": "discussing",
+      "confidence": 0.568,
+      "bbox": [
+        0,
+        8,
+        410,
+        480
+      ],
+      "attention_level": "MEDIUM"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "timestamp": 1775548593.2126334,
+  "frame": 470,
+  "scores": {
+    "1": {
+      "student_name": "Student_1",
+      "score": 56.7,
+      "level": "MEDIUM"
+    },
+    "3": {
+      "student_name": "Student_3",
+      "score": 63.8,
+      "level": "HIGH"
+    }
+  }
+}

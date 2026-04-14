@@ -1,0 +1,17 @@
+{
+  "timestamp": 1775548591.9447498,
+  "present": [],
+  "total_enrolled": 0,
+  "details": [
+    {
+      "name": null,
+      "recognized": false,
+      "confidence": 0.0
+    },
+    {
+      "name": null,
+      "recognized": false,
+      "confidence": 0.0
+    }
+  ]
+}
