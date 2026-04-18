@@ -3,7 +3,9 @@
 A real-time vision-based system for monitoring student behaviour, emotions,
 attention levels, and attendance in classroom settings.
 
-Implements the full pipeline described in the paper using:
+This project presents a classroom attention monitoring system that automates attendance tracking and analyzes student engagement using deep learning. The system integrates modules for face recognition, emotion detection, and action recognition to monitor classroom activities in real time. Using datasets such as SCB-05 and AffectNet, the models are trained to classify student emotions and behaviors, enabling insights into attentiveness and participation. A structured configuration and preprocessing pipeline ensures efficient data handling and model training. The system supports real-time inference through video input, where student faces are detected, recognized, and analyzed to mark attendance and evaluate engagement levels. Action detection models further identify classroom activities such inattentiveness. The modular design allows scalability and easy integration with dashboards or backend systems for reporting and visualization. Overall, the project demonstrates how solutions can enhance classroom management and provide data-driven insights to improve teaching effectiveness.
+
+Implements the full pipeline using:
 - **YOLOv5n/s/m/l/x** for behaviour and emotion detection
 - **DeepSORT** for multi-object tracking
 - **Haar Cascade + LBPH** for face-based attendance
